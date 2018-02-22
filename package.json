@@ -1,0 +1,23 @@
+{
+  "name": "hackerman-display",
+  "version": "0.0.1",
+  "description": "A Video Display project inspired by Hackerman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VirratHacklab/hackerman-display.git"
+  },
+  "author": "Antti Rintala <antti@virrat.hacklab.fi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VirratHacklab/hackerman-display/issues"
+  },
+  "homepage": "https://github.com/VirratHacklab/hackerman-display#readme",
+  "dependencies": {
+    "electron": "^1.8.2",
+    "node-fetch": "^2.0.0"
+  }
+}
