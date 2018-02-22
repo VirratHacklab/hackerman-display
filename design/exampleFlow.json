@@ -1,0 +1,13 @@
+{
+  "videos": {
+    "A": "video1a.mp4",
+    "B": "video1a.mp4",
+    "C": "video1a.mp4",
+    "D": "video1a.mp4",
+    "A.A": "video1aa.mp4",
+    "D.B.A.C": "video1dbac.mp4",
+  },
+  "paths": [
+    "D.B.A.C"
+  ]
+}
